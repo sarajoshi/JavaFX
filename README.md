@@ -1,2 +1,2 @@
 # JavaFX
-A collection of projects using JavaFX
+A collection of small individual projects using JavaFX
